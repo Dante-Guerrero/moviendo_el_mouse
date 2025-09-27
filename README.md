@@ -16,5 +16,4 @@ flowchart TD
     style F1 fill:#cc0000,stroke:#000,color:#fff
     style F2 fill:#cc0000,stroke:#000,color:#fff
     style C fill:#ffcc00,stroke:#000,color:#000
-    %%
 ```
